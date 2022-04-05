@@ -1,0 +1,23 @@
+{
+  "name": "texteditor-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hickscj24/texteditor-19.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hickscj24/texteditor-19/issues"
+  },
+  "homepage": "https://github.com/hickscj24/texteditor-19#readme",
+  "dependencies": {
+    "packages.json": "^1.0.2"
+  }
+}
